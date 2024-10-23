@@ -90,5 +90,6 @@ Contributions Are Welcome! If You Have Ideas Or Would Like To Implement Any Feat
 
 ## 🙏 Acknowledgments
 
+- [Kyle](https://github.com/KyleFardy/RCE-Discord-Bot-V2) for his excellent work on putting this all together this far.
 - [rce.js](https://github.com/b1nzeex/rce.js) For The Connection Library.
 - The Rust Community For Their Support And Feedback.
