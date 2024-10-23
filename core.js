@@ -194,7 +194,7 @@ class rce_bot {
         try {
             // Initialize RCE manager with server details
             this.client.rce = new RCEManager();
-            await this.client.rce.init({ username: process.env.GPORTAL_EMAIL, password: process.env.GPORTAL_PASSWORD }, { level: LogLevel.Info });
+            await this.client.rce.init({ email: process.env.GPORTAL_EMAIL, password: process.env.GPORTAL_PASSWORD }, { level: LogLevel.Info });
 
             // Fetch server information from the database
             await this.fetch_servers();
