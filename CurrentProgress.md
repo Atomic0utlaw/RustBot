@@ -3,16 +3,16 @@
 ## 📜 Current PROGRESS
 
 ### Current status:
-PS git> npm ls qoop mysql underscore
-rce-discord-bot-v2@1.0.0 .\git
-+-- mysql-sync@0.0.5
-| +-- mysql@2.18.1
-| +-- qoop@0.1.0 deduped
-| -- underscore@1.13.7 deduped
-+-- qoop@0.1.0
-| +-- mysql@2.4.2
-| -- underscore@1.6.0
--- underscore@1.13.7
+  PS git> npm ls qoop mysql underscore
+  rce-discord-bot-v2@1.0.0 .\git
+  +-- mysql-sync@0.0.5
+  | +-- mysql@2.18.1
+  | +-- qoop@0.1.0 deduped
+  | -- underscore@1.13.7 deduped
+  +-- qoop@0.1.0
+  | +-- mysql@2.4.2
+  | -- underscore@1.6.0
+  -- underscore@1.13.7
 
 
 
